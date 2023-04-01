@@ -6352,7 +6352,6 @@
     "setimmediate" "^1.0.5"
 
 "ethereumjs-abi@git+https://github.com/ethereumjs/ethereumjs-abi.git":
-  "resolved" "git+ssh://git@github.com/ethereumjs/ethereumjs-abi.git#1a27c59c15ab1e95ee8e5c4ed6ad814c49cc439e"
   "version" "0.6.8"
   dependencies:
     "bn.js" "^4.11.8"
